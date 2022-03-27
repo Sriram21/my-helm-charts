@@ -9,7 +9,7 @@ This repository contains [Helm](https://helm.sh) charts for various projects
 
 Add the Repository to Helm:
 
-    helm repo add my-helm-charts https://tech.paulcz.net/my-helm-charts
+    helm repo add my-helm-charts https://github.com/Sriram21/my-helm-charts
 
 Install Application 1:
 
